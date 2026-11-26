@@ -1,0 +1,8 @@
+*.class
+build/
+logs/*.log
+data/scores.txt
+.vscode/
+.idea/
+*.iml
+.DS_Store
